@@ -1,0 +1,9 @@
+{
+  "name": "toon-story-studio",
+  "version": "0.1.0",
+  "description": "Make round-head 3D cartoon story videos entirely in code: inked toon characters in real 3D rooms, depth of field, one-word captions and curiosity-story scripts timed to your voiceover. Built on Three.js and Remotion. Renders 9:16 Shorts and 16:9 long-form.",
+  "author": {
+    "name": "Toon Story Studio"
+  },
+  "keywords": ["video", "animation", "3d", "cartoon", "three.js", "remotion", "shorts", "faceless youtube", "storytelling", "whisper"]
+}
